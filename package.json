@@ -1,0 +1,17 @@
+{
+  "name": "api-de-biblioteca",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  }
+}
